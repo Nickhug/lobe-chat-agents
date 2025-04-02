@@ -1,5 +1,8 @@
 <div align="center"><a name="readme-top"></a>
 
+<!-- Custom deployment note -->
+> This is a custom deployment of the Lobe Chat Agents Index with selected agents for my personal use.
+
 <img height="120" src="https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/robot.webp">
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
 <img height="120" src="https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/convenience-store.webp">
@@ -5015,7 +5018,7 @@ If you need to run the `format` script locally, you need to configure the corres
 
 ## 🤝 Contributing
 
-Contributions of all types are more than welcome, if you are interested in contributing agent, feel free to show us what you’re made of.
+Contributions of all types are more than welcome, if you are interested in contributing agent, feel free to show us what you're made of.
 
 [![][pr-welcome-shield]][submit]
 
